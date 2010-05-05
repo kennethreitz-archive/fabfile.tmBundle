@@ -1,0 +1,11 @@
+# Fabfile Bundle for TextMate
+
+**DOCUMENTATION DRIVEN DEVELOPMENT**
+
+Features
+--------
+* fabfile.py Template
+* Python (Fabric) Language / Scope
+* Snippets for common commands (`put`,`run`,`local`, etc)
+* HotKey for executing tasks in current project
+* HotKey for selecting tasks in current project
